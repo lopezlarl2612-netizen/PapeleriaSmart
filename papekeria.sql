@@ -1,0 +1,3 @@
+SHOW DATABASES;
+USE papeleria4cm44;
+SHOW TABLES;

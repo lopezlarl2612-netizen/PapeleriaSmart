@@ -1,0 +1,16 @@
+{
+  "name": "papeleria-backend",
+  "version": "1.0.0",
+  "description": "Backend para PapeleriaSmart",
+  "main": "dist/app.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/app.ts",
+    "build": "tsc",
+    "start": "node dist/app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
